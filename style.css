@@ -1,0 +1,229 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: 0 7%;
+}
+.n-bg{
+    background-color: #37b2c2;
+}
+.nav-style{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 3%;
+    padding: 1% 0;
+}
+.d-flex{
+    display: flex;
+}
+.img-style{
+    padding-top: 5px;
+}
+.input-style{
+    margin-left: 30px;
+    width: 400px;
+    padding: 10px 10px;
+    outline: none;
+    border: none;
+    border-radius: 50px;
+    font-size: 15px;
+    font-weight: 700px;
+    background-color: #eeeeee;
+}
+.div-style a{
+    text-decoration: none;
+    padding: 0 15px;
+    font-size: 20px;
+    font-weight: 600;
+    color: rgb(0,0,0);
+}
+.bg-color{
+    background-color: #feeae9;
+    padding: 55px 50px;
+    border-radius: 15px;
+}
+.margin-right{
+    margin-right: 15%;
+}
+.header-style{
+    font-size: 55px;
+}
+.pera-style{
+    font-size: 20px;
+    padding: 25px 0 30px 0;
+    color: rgb(110, 107, 107);
+}
+.h2-style{
+    font-size: 45px;
+    color: #ff136f;
+    padding-bottom: 30px;
+}
+.half-width1{
+    width: 65%;
+}
+.half-width2{
+    width: 35%;
+}
+.img-width{
+    width: 100%;
+}
+.btn-style{
+    font-size: 20px;
+    color: white;
+    border: white;
+    background: linear-gradient(#ff4d94,#ff247a);
+    padding: 15px 25px;
+    border-radius: 10px;
+}
+.h1-style{
+    font-size: 48px;
+    padding: 50px 0 30px 0px;
+    padding-left: 50px;
+}
+.h-1-style{
+    font-size: 30px;
+    color: white;
+    padding: 25px 25px;
+    background: linear-gradient(#ff9f34,#ffca1c);
+    width: 95%;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+.img{
+    width: 77px;
+    padding: 0 0 0 65px;
+}
+.h-1-style1{
+    font-size: 30px;
+    color: white;
+    padding: 25px 25px;
+    background: linear-gradient(#ff5498,#ff1b74);
+    width: 95%;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+.h-1-style2{
+    font-size: 30px;
+    color: white;
+    padding: 25px 25px;
+    background: linear-gradient(#416ffe,#3f1bf9);
+    width: 95%;
+    border-radius: 15px;
+    margin-bottom: 50px;
+}
+.container1{
+    margin-left: 51px;
+}
+.container2{
+    margin-left: 70px;
+}
+.container3{
+    margin-left: 70px;
+}
+.section-bg{
+    background-color: #f4f4f4;
+}
+.margin-bottom{
+    padding-bottom: 50px;
+}
+.d-b-p{
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 0 35px 0;
+}
+.heading-style{
+    font-size: 48px;
+    padding-left: 50px;
+}
+.h3-style{
+    color: orangered;
+    padding-top: 15px;
+}
+.card-style{
+    width: 30%;
+    margin-right: 3%;
+}
+.image-width{
+    width: 100%;
+}
+.bg{
+    background-color: white;
+    border-radius: 20px;
+    box-shadow: 0 0 15px 2px cyan;
+}
+.reebok-style{
+    font-size: 25px;
+}
+.prgph-style{
+    font-size: 17px;
+    color: rgb(117, 117, 117);
+    padding: 20px 0 20px 0;
+}
+.center{
+    text-align: center;
+}
+.ph1-style{
+    font-size: 25px;
+}
+.bttn-style{
+   text-decoration: none; 
+   border-radius: 10px;
+   border: none;
+   background-color: black;
+   padding: 10px 15px;
+   margin: 20px 0;
+   font-size: 18px;
+   color: white;
+}
+.BackPack-style{
+    font-size: 48px;
+    padding-left: 50px;
+    padding-top: 25px;
+}
+.backpack-heading{
+    font-size: 25px;
+    padding-top: 18px;
+}
+.footer-bg-color{
+    background-color: #feeae9;
+    margin: 100px 0px;
+    text-align: center;
+    padding: 150px 0px;
+    border-radius: 10px;
+}
+.h4-style{
+    padding: 10px;
+    font-size: 16px;
+}
+.foooter-input{
+    width:500px;
+    border: none;
+    outline: none;
+    height: 60px;
+    border-radius: 5px 0 0 5px;
+    font-size: 25px;
+    padding-left: 20px;
+}
+.Send-btn{
+    padding: 16px 30px;
+    border: none;
+    border-radius: 0px 5px 5px 0px;
+    background-color: hotpink;
+    color: white;
+    font-size: 25px;
+}
+.footer-input{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.youtube{
+    text-decoration: none;
+    color: white;
+}
+.panda{
+    text-decoration: none;
+    color: white;
+}
